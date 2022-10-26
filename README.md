@@ -87,13 +87,13 @@ Verified users (managers) have access to further features such as:
 
 #### Application Architecture Diagram
 
-![EasyPark-Architecture-Diagram](/Users/yumi/Documents/IT/Coder Academy/term_4/Final-project/EasyPark-Architecture-Diagram.png)
+![EasyPark-Architecture-Diagram](/Users/yumi/Documents/IT/Coder Academy/term_4/Final-project/T3A2/src/EasyPark_App-Documents/doc-Document/EasyPark-Architecture-Diagram.png)
 
 ---
 
 #### Wireframes
 
-![EasyPark-Wireframe](/Users/yumi/Documents/IT/Coder Academy/term_4/Final-project/EasyPark-Wireframe.png)
+![EasyPark-Wireframe](/Users/yumi/Documents/IT/Coder Academy/term_4/Final-project/T3A2/src/EasyPark_App-Documents/doc-Document/EasyPark-Wireframe.png)
 
 
 
@@ -103,9 +103,9 @@ Verified users (managers) have access to further features such as:
 
 We have selected Trello as our planning methodology as it is easier to visualize tasks and allows us to manage the project by separating the tasks into cards and prioritizing major ones. Another tool used is Discord which is a voice, video, and text communication app. This is essential as it is essential to keep contact with each other.
 
-![Trello1-Version1](/Users/yumi/Documents/IT/Coder Academy/term_4/Final-project/ScreenShot/Trello1-Version1.png)
+![Trello1-Version1](/Users/yumi/Documents/IT/Coder Academy/term_4/Final-project/T3A2/src/EasyPark_App-Documents/doc-Document/Trello1-Version1.png)
 
-![Trello2-version1](/Users/yumi/Documents/IT/Coder Academy/term_4/Final-project/ScreenShot/Trello2-version1.png)
+![Trello2-version1](/Users/yumi/Documents/IT/Coder Academy/term_4/Final-project/T3A2/src/EasyPark_App-Documents/doc-Document/Trello2-version1.png)
 
 ---
 
