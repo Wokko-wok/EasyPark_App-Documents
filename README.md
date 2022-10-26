@@ -14,7 +14,11 @@ Trello : https://trello.com/b/by2fIJXP/easycarpark-app
 
 #### Purpose
 
+This web app will serve two main purposes. The first is to allow vehicle owners to book a safe parking spot near a desired location for a certain period of time. The other is to allow the manager of the company to manage these parking spots and bookings. As it stands a driver looking for a parking spot in locations such as in the city, a shopping center or at an airport are forced to do the same sequence over and over again. To find a spot they would have to either look up these locations beforehand or aimlessly drive around, both resulting in the driver hoping to find a vacant parking spot. Even if they end up finding a space there is usually no guarantee that the vehicle will be left unscathed. Research done by the National Road Safety Partnership Program reports that collisions that include a parked vehicle make up 51% of reported car park collisions. In fact collisions with a parked vehicle are 6 times more likely to happen in car parks than in any other driving environment. Insurance data reveals that the net incurred cost of car park incidents is approximately $3,000 this does not include the loss of time completing insurance claims as well as the potential profit loss due to a vehicle being out of commission during repairs. (Reference https://www.nrspp.org.au/product/car-parks-campaign/)
 
+
+
+Easypark provides an alternative to general parking by providing an affordable, secure, and more flexible car park option. The app contains a wide selection of available privately owned parking and garages that the user can choose from. It allows the user to book a parking spot near a desired location and choose the duration of stay which can range from a day to a few months. They can also view their previous bookings and leave a rating for other users to see. To ensure that the user's vehicle is secure, all private car parks that are posted are reviewed and must pass strict guidelines to ensure accuracy and safety.
 
 
 
@@ -22,7 +26,7 @@ Trello : https://trello.com/b/by2fIJXP/easycarpark-app
 
 ####  Target audience
 
-
+This website is aimed towards vehicle owners who are looking to book an affordable, convenient and reliable parking spot around/near a desired location.
 
 
 
@@ -51,7 +55,23 @@ Trello : https://trello.com/b/by2fIJXP/easycarpark-app
 
 ####  Functionality / Features
 
+Not all features of the site will be available to all users of the web app. This is due to the different types of users expected to use the application. Without logging in all users are able to:
 
+- Search a location
+- View available parking spots around that location (with a map)
+- See existing user ratings for said parking spots 
+
+But to progress further, they are required to log in either with an existing account or create a new one. Once logged in a normal user should be able to:
+
+- Book a parking spot for a specified period of time
+- View their previous bookings
+- Leave ratings for these bookings
+- Rebook previously booked locations
+
+Verified users (managers) have access to further features such as:
+
+- Editing and removing existing locations
+- View a summary of all daily bookings
 
 
 
@@ -67,13 +87,13 @@ Trello : https://trello.com/b/by2fIJXP/easycarpark-app
 
 #### Application Architecture Diagram
 
-
+![EasyPark-Architecture-Diagram](/Users/yumi/Documents/IT/Coder Academy/term_4/Final-project/EasyPark-Architecture-Diagram.png)
 
 ---
 
 #### Wireframes
 
-
+![EasyPark-Wireframe](/Users/yumi/Documents/IT/Coder Academy/term_4/Final-project/EasyPark-Wireframe.png)
 
 
 
@@ -81,7 +101,11 @@ Trello : https://trello.com/b/by2fIJXP/easycarpark-app
 
 #### Spring Planning
 
+We have selected Trello as our planning methodology as it is easier to visualize tasks and allows us to manage the project by separating the tasks into cards and prioritizing major ones. Another tool used is Discord which is a voice, video, and text communication app. This is essential as it is essential to keep contact with each other.
 
+![Trello1-Version1](/Users/yumi/Documents/IT/Coder Academy/term_4/Final-project/ScreenShot/Trello1-Version1.png)
+
+![Trello2-version1](/Users/yumi/Documents/IT/Coder Academy/term_4/Final-project/ScreenShot/Trello2-version1.png)
 
 ---
 
@@ -99,6 +123,6 @@ Trello : https://trello.com/b/by2fIJXP/easycarpark-app
 
 **Project-management tools**: Trello, Discord
 
-**Utilities**: Draw.io, Figma
+**Utilities**: Draw.io, Figma, Lucid-chart
 
 **DevOps**: Git, Github, VS Code
