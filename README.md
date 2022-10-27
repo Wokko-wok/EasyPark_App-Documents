@@ -79,7 +79,7 @@ Verified users (managers) have access to further features such as:
 
 #### Dataflow Diagram
 
-![EasyPark Dataflow Diagram](/doc-Document/EasyPark Dataflow Diagram.png)
+![EasyPark-Dataflow-Diagram](/doc-Document/EasyPark-Dataflow-Diagram.png)
 
 
 
