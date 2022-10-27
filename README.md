@@ -87,7 +87,7 @@ Verified users (managers) have access to further features such as:
 
 #### Application Architecture Diagram
 
-![EasyPark-Architecture-Diagram](/Users/yumi/Documents/IT/Coder Academy/term_4/Final-project/T3A2/src/EasyPark_App-Documents/doc-Document/EasyPark-Architecture-Diagram.png)
+![EasyPark-Architecture-Diagram](/doc-Document/EasyPark-Architecture-Diagram.png)
 
 ---
 
