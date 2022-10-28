@@ -112,7 +112,7 @@ We have selected Trello as our planning methodology as it is easier to visualize
 
 #### Tech Stack:
 
-**Front-end**: HTML5, CSS3, REACT.JS, Javascript, JSX, AXIOS, ?Bootstrp/ Style-Component
+**Front-end**: HTML5, CSS3, REACT.JS, Javascript, JSX, AXIOS, Bootstrp and Style-Component
 
 **Back-end**: Node, ExpressJS
 
