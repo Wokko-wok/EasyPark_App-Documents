@@ -110,7 +110,7 @@ We have selected Trello as our planning methodology as it is easier to visualize
 ![Trello2-version1](/docs/Trello2-version1.png)
 *As progress was done the trello board is updated including the addition of new objectives.*
 
-![Trello2-version1](/docs/Trello3-version1.png)
+![Trello3-version1](/docs/Trello3-version1.png)
 *This is the latest look of the trello board before submission*
 ---
 
