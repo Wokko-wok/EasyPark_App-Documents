@@ -39,7 +39,7 @@ This website is aimed towards vehicle owners or tourists in Melbourne who are lo
 - As a person looking for a spot, I want to be able to book a location so that I know that it is only available to me.
 - As a person that cares for my car, I want a secure parking spot so that my car is safe.
 - As a person looking for a parking spot, I want to be able to see parking spots on a map so that I can visually see the distance from the spot to the destination and choose the closest one. 
-- As a person that is travelling, I want a parking spot that is more flexible than public parking so that I can park closer to my destination.
+- As a person that is traveling, I want a parking spot that is more flexible than public parking so that I can park closer to my destination.
 - As a busy person, I want a parking spot that is easier to access so that I can get to my vehicle more quickly.
 - As a returning user, I want to be able to see previous bookings, so that I can book the same spot again at a later date. 
 - As a concerned user, I want to be able to rate a parking spot so that other users can see if it is a good/bad location.
@@ -79,7 +79,8 @@ Verified users (managers) have access to further features such as:
 
 #### Dataflow Diagram
 
-![EasyPark-Dataflow-Diagram](/doc-Document/EasyPark-Dataflow-Diagram.png)
+![EasyPark-Dataflow-Diagram](/docs/EasyPark-Dataflow-Diagram.png)
+*The Diagram above displays the expected flow of data within the application.*
 
 
 
@@ -87,13 +88,15 @@ Verified users (managers) have access to further features such as:
 
 #### Application Architecture Diagram
 
-![EasyPark-Architecture-Diagram](/doc-Document/EasyPark-Architecture-Diagram.png)
+![EasyPark-Architecture-Diagram](/docs/EasyPark-Architecture-Diagram.png)
+*This diagram show the interaction between the user, the Frontend, and Backend as well as the processes within them.*
 
 ---
 
 #### Wireframes
 
-![EasyPark-Wireframe](/doc-Document/EasyPark-Wireframe.png)
+![EasyPark-Wireframe](/docs/EasyPark-Wireframe.png)
+*This is the planned layout of all the pages of the  application. Including different views such as mobile.*
 
 ---
 
@@ -101,16 +104,20 @@ Verified users (managers) have access to further features such as:
 
 We have selected Trello as our planning methodology as it is easier to visualize tasks and allows us to manage the project by separating the tasks into cards and prioritizing major ones. Another tool used is Discord which is a voice, video, and text communication app. This is essential as it is essential to keep contact with each other.
 
-![Trello1-Version1](/doc-Document/Trello1-Version1.png)
+![Trello1-Version1](/docs/Trello1-Version1.png)
+*This is the initial look fo the trello board.*
 
+![Trello2-version1](/docs/Trello2-version1.png)
+*As progress was done the trello board is updated including the addition of new objectives.*
 
-![Trello2-version1](/doc-Document/Trello2-version1.png)
+![Trello3-version1](/docs/Trello3-version1.png)
+*This is the latest look of the trello board before submission.*
 
 ---
 
 #### Tech Stack:
 
-**Front-end**: HTML5, CSS3, REACT.JS, Javascript, JSX, AXIOS, Bootstrp and Style-Component
+**Front-end**: HTML5, CSS3, REACT.JS, Javascript, JSX, AXIOS, Bootstrap and Style-Component
 
 **Back-end**: Node, ExpressJS
 
