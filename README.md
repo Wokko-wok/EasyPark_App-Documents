@@ -39,7 +39,7 @@ This website is aimed towards vehicle owners or tourists in Melbourne who are lo
 - As a person looking for a spot, I want to be able to book a location so that I know that it is only available to me.
 - As a person that cares for my car, I want a secure parking spot so that my car is safe.
 - As a person looking for a parking spot, I want to be able to see parking spots on a map so that I can visually see the distance from the spot to the destination and choose the closest one. 
-- As a person that is travelling, I want a parking spot that is more flexible than public parking so that I can park closer to my destination.
+- As a person that is traveling, I want a parking spot that is more flexible than public parking so that I can park closer to my destination.
 - As a busy person, I want a parking spot that is easier to access so that I can get to my vehicle more quickly.
 - As a returning user, I want to be able to see previous bookings, so that I can book the same spot again at a later date. 
 - As a concerned user, I want to be able to rate a parking spot so that other users can see if it is a good/bad location.
